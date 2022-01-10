@@ -1,0 +1,1 @@
+INSERT INTO USER(id, nome, senha) VALUES(1, 'user', '$2a$10$fl.uwkh68neKqxAeZHzKHuOaW9OZvehy.shxzboMW7r6INhhkVL96')
